@@ -54,3 +54,9 @@ header nav {
     display: flex;
     gap: 20px;
 }
+
+/* hero section */
+
+section.hero {
+    padding-top: calc(100dvh / 3);
+}
